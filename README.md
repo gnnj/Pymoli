@@ -1,7 +1,7 @@
 # Three observable trends based on the data
-# 1)  
-# 2)  
-# 3)  
+# 1)  Most players are males by a large amount.
+# 2)  Ages 20 - 24 make the most purchases.
+# 3)  The average item purchase price is $2.82 to $3.25.
 
 # Import modules
 import pandas as pd
